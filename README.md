@@ -4,7 +4,7 @@
 </p>
 <h3 align="center">A Student Developer from The Philippines</h3>
 <br>
-✍️ Computer Science Major in CVSU-Main Indang <br/>
+✍️ Computer Science Major in CVSU - Main  <br/>
 🌱 Currently learning Python, AI/ML and Frontend Web Development <br/>
 📫 Reach me at lourencelariosa23@gmail.com <br/>
 
