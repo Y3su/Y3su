@@ -17,7 +17,7 @@
 <h2 align="center">Tech stack</h2>
 <p align="center">
   <a align="center" href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,html,css,php,mysql,&perline=8" />
+    <img src="https://skillicons.dev/icons?i=py,java,html,css,php,&perline=8" />
   </a>
 </p>
 
