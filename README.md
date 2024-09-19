@@ -14,7 +14,7 @@
 <a href="https://www.facebook.com/profile.php?id=100084884895068" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/paul.2444.444/" height="30" width="40" /></a>
 </p>
 
-<h2 align="center">Tech stack</h2>
+<h2 align="center">Tech Stack</h2>
 <p align="center">
   <a align="center" href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,java,html,css,php,&perline=8" />
@@ -28,7 +28,7 @@
   </a>
 </p>
 
-<h2 align="center">📈My stats</h2>
+<h2 align="center">📈My Stats</h2>
   <br/>
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Y3su&theme=nightowl&border_radius=10&order=3" height="150" /></a>
