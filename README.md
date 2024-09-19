@@ -2,7 +2,7 @@
 <p align="center">
   <img src="computer1.gif" alt="animated" width="600" />
 </p>
-<h3 align="center">A Student developer from The Philippines</h3>
+<h3 align="center">A Student Developer from The Philippines</h3>
 <br>
 ✍️ Computer Science Major in CVSU-Main Indang <br/>
 🌱 Currently learning Python, AI/ML and Frontend Web Development <br/>
