@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lourence Lariosa</h1>
 <p align="center">
-  <img src="outdoors.gif" alt="animated" width="600" />
+  <img src="room.gif" alt="animated" width="600" />
 </p>
 <h3 align="center">A Student Developer from The Philippines</h3>
 <br>
