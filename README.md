@@ -5,7 +5,7 @@
 <h3 align="center">A Student Developer from The Philippines</h3>
 <br>
 ✍️ Computer Science Major in CVSU - Main  <br/>
-🌱 Currently learning Python, AI/ML and Frontend Web Development <br/>
+🌱 Currently learning Python, AI/ML and SQL <br/>
 📫 Reach me at lourencelariosa23@gmail.com <br/>
 
 <h2 align="center">Connect With Me!!</h2>
