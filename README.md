@@ -9,10 +9,9 @@
 📫 Reach me at lourencelariosa23@gmail.com <br/>
 
 <h2 align="center">Connect With Me!!</h2>
-<p align="center">
-<a href="https://www.instagram.com/_renznavi/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/adrii_xml/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100084884895068" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/paul.2444.444/" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/lourence-lariosa/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/lourence-lariosa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="mailto:lourencelariosa23@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a>
+  <a href="https://github.com/Y3su"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" /></a>
 </p>
 
 <h2 align="center">Tech Stack</h2>
