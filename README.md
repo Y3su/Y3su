@@ -9,6 +9,7 @@
 📫 Reach me at lourencelariosa23@gmail.com <br/>
 
 <h2 align="center">Connect With Me!!</h2>
+<p align="center">
   <a href="https://www.linkedin.com/in/lourence-lariosa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
   <a href="mailto:lourencelariosa23@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a>
   <a href="https://github.com/Y3su"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" /></a>
